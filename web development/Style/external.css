@@ -7,3 +7,10 @@ a{
 .contact{
     color:violet;
 }
+li em{
+    color: rebeccapurple;
+}
+a:hover{
+    color: sandybrown;
+    text-decoration:seagreen;
+}
