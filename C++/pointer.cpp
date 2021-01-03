@@ -19,7 +19,7 @@ int main()
 
     // Pointers and arrays
     int *p = marks;
-    // cout << *(p++) << endl;
+    //cout << *(p++) << endl;
     // cout << *(++p) << endl;
     cout << "The value of *p is " << *p << endl;
     cout << "The value of *(p+1) is " << *(p+1) << endl;
